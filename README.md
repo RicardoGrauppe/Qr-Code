@@ -36,5 +36,5 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ## Author
 
-- Website - [RicardoGrauppe]()
+- Website - [RicardoGrauppe](https://github.com/RicardoGrauppe)
 - Frontend Mentor - [@RicardoGrauppe](https://www.frontendmentor.io/profile/RicardoGrauppe)
