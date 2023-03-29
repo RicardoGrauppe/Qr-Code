@@ -20,7 +20,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Screenshot
 
-![](./design/my-solution.png)
+![Design preview for the Profile card component coding challenge](./design/my-solution.png.png)
 
 
 ### Links
@@ -38,3 +38,4 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 - Website - [RicardoGrauppe](https://github.com/RicardoGrauppe)
 - Frontend Mentor - [@RicardoGrauppe](https://www.frontendmentor.io/profile/RicardoGrauppe)
+
